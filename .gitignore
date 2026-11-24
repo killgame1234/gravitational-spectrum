@@ -1,0 +1,13 @@
+# Runtime cache, bridge auth token, logs, and helper scripts
+.cache/
+*.log
+
+# User local media folder
+media/
+
+# Internal audit / scratch notes
+BUG_FIX_HANDOFF.md
+
+# OS files
+.DS_Store
+Thumbs.db
